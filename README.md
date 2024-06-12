@@ -119,3 +119,8 @@ You have successfully set up the CodeFormer project and run inference on both im
 
 
 ![image](https://github.com/tarunaditya91/Improve_Video-Image_quality/assets/113850656/1434c571-b84a-4601-94b8-3edb31082f35)
+
+
+
+![image](https://github.com/tarunaditya91/Improve_Video-Image_quality/assets/113850656/8bc66152-fbbd-4e3d-99a1-d83ea047598e)
+
