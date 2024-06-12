@@ -200,6 +200,6 @@ if __name__ == '__main__':
     for i, in_path in enumerate(img_list):
         img_name = os.path.basename(in_path)
         print(f'[{i+1}/{test_img_num}] Processing: {img_name}')
-        out_path = os.path.join(args.out_dir, in_path.split("/")[-1])        
+        out_path = os.path.join(args.out_dir, img_name)        
         out_path = out_path.replace('.jpg', '.png')
         size_ = align_face(in_path, out_path)
